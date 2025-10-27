@@ -30,7 +30,7 @@ This repository contains my **Task 4** for the Web Development Internship at **P
 ---
 
 ✨ **Live Preview**  
-🌐  https://mastertech-prodigytech04.netlify.app
+🌐 https://masterdebesh.netlify.app
 
 ---
 
