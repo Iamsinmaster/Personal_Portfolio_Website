@@ -1,6 +1,6 @@
-# PRODIGY_WD_04 – Personal Portfolio Website
+# Personal Portfolio Website
 
-This repository contains my **Task 4** for the Web Development Internship at **Prodigy InfoTech**.
+This is my personal portfolio website which i created for my online infos..
 
 ---
 
