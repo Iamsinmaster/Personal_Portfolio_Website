@@ -39,5 +39,5 @@ This is my personal portfolio website which i created for my online infos..
 🚀 **How to Run Locally**
 
 ```bash
-git clone https://github.com/Iamsinmaster/PRODIGY_WD_04.git
-cd PRODIGY_WD_04
+git clone https://github.com/Iamsinmaster/Personal_Portfolio_Website
+cd Personal_Portfolio_Website
