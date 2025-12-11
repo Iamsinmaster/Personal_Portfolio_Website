@@ -31,8 +31,6 @@ This repository contains my **Task 4** for the Web Development Internship at **P
 
 ✨ **Live Preview**  
 🌐 https://iamsinmaster.github.io/Personal_Portfolio_Website/
-🌐 https://masterdebesh.netlify.app
-
 ---
 
 🚀 **How to Run Locally**
